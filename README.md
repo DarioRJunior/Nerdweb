@@ -6,6 +6,7 @@ Projeto: 🚀Concluido
 </h4>
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
+ <a href="#-objetivo">Dificuldades</a> •
  <a href="#-tecnologias">Tecnologias</a> •  
  <a href="#-licenca">Licença</a> • 
  <a href="#-autor">Autor</a>
@@ -13,16 +14,19 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Está landing page tem como objetivo mostrar meu trabalho responsivo com Landing Pages <br>
+ Está landing page tem como objetivo executar o desafio da nerdweb <br>
+ 
+## 💻 Dificuldades
 
+Tive algumas dificuldades em implementar o menu dropdown, ele está lá, porem na hora de mostrar ele, não consegui fazer aparecer.
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- <img align="center" alt="Dario-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5
-- <img align="center" alt="Dario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
-
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 
 ## 🦸 Autor
@@ -40,6 +44,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Dario Junior 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dariocode/)
