@@ -18,7 +18,8 @@ Projeto: 🚀Concluido
  
 ## 💻 Dificuldades
 
-Tive algumas dificuldades em implementar o menu dropdown, ele está lá, porem na hora de mostrar ele, não consegui fazer aparecer.
+Tive algumas dificuldades em implementar o menu dropdown, ele está lá, porem na hora de mostrar ele, não consegui fazer aparecer e em fazer o carrousel com o swipe.js
+
 
 ## 🛠 Tecnologias
 
